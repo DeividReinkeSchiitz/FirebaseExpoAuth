@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCm7PHdECkPGlR2X16-BaGq77BoGpOYuMs",
+  apiKey: "KEY",
   authDomain: "react-nativefirebase-b8062.firebaseapp.com",
   databaseURL: "https://react-nativefirebase-b8062.firebaseio.com",
   projectId: "react-nativefirebase-b8062",
